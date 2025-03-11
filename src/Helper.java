@@ -18,8 +18,8 @@ public class Helper {
         sai.name = "Sai";
         sai.age = 26;
 
-//        Kumar.name = "Kumar";
-//        Kumar.age = 26;
+        Kumar.name = "Kumar";
+        Kumar.age = 26;
 
 
         System.out.println("priting siva name "+ siva.name());
