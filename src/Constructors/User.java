@@ -11,4 +11,11 @@ public class User {
     }
 
 
+    // This is a custom copy constructor
+    public User(User u) {
+        this.age = u.age;
+        this.name = u.name;
+    }
+
+
 }
