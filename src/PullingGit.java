@@ -4,5 +4,7 @@ public class PullingGit {
         System.out.println("Pulling Git");
 
         System.out.println("pulling is done");
+
+        System.out.println("pull testing");
     }
 }
